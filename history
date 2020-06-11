@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WEBSITE EDUKASI - History</title>
+    <link rel="stylesheet" href="css/components.css">
+    <link rel="stylesheet" href="css/icons.css">
+    <link rel="stylesheet" href="css/responsee.css">
+    <link rel="stylesheet" href="owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" href="owl-carousel/owl.theme.css">     
+    <link rel="stylesheet" href="css/template-style.css">
+    <link href='https://fonts.googleapis.com/css?family=Playfair+Display&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui.min.js"></script>   
+    <script src="scripts/model3d.js"></script>  
+  </head>
+  
+  <body class="size-1140">
+  	<!-- PREMIUM FEATURES BUTTON -->
+  	<a target="_blank" class="hide-s" href="../template/eleganter-premium-responsive-business-template/" style="position:fixed;top:150px;right:-14px;z-index:10;"><img src="img/premium-features.png" alt=""></a>
+    <!-- HEADER -->
+    <header role="banner" class="position-absolute">    
+      <!-- Top Navigation -->
+      <nav class="background-transparent background-transparent-hightlight full-width sticky">
+        <div class="s-12 l-2">
+          <a href="index.html" class="logo">
+          </a>
+        </div>
+        <div class="top-nav s-12 l-8">
+          <p class="nav-text"></p>
+          <ul class="right chevron">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="history.html">History</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="maps.html">Maps</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    
+    <!-- MAIN -->
+    <main role="main">
+      <!-- Content 1 -->
+      <article>
+        <header>
+          <div class="carousel-default owl-carousel carousel-main carousel-nav-white background-dark text-center">
+            <div class="item">
+              <div class="s-12">
+                <img src="img/header3.png" alt="">
+                <div class="carousel-content">
+                  <div class="content-center-vertical line">
+                    <div class="margin-top-bottom-80">
+                      <div class="line"> 
+                      </div>  
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>              
+          </div>               
+        </header>
+        <div class="section background-white"> 
+          <audio src="sound/lathi_gamelan_ver.mpeg" controls autoplay loop></audio>
+          <div class="line">  
+            <h2 class="text-size-40 margin-bottom-30">- Sejarah Candi Kidal >>></h2>
+            <hr class="break-small background-primary margin-bottom-30">
+            <p>
+              Candi kidal terletak di Desa Rejokidal, kecamatan Tumpang, kabupaten Malang (sebelah timur kota malang). 
+              Candi ini berukuran 10.8 m, lebar 8,36 m, dan tinggi 12,26 m, setelah di pugar pada tahun 1986 sampai dengan 1990. Tinggi aslinya di perkirakan 17 m. 
+              Secara vertikal candi ini dapat dibagi menjadi kaki candi, tubuh candi. 
+              Di dalam bilik candi tidak ditemukan arca selain Yoni di tengah-tengah ruangan. 
+              Yoni ini pun ketika ditemukan sudah berada di luar ruangan, di duga berasal dari ruangan. <br> <br>
+              Sebuah arca siwa yang sekarang yang berada di “Royal Trpical Institute” Amsterdam diduga berasal dari Candi Kidal. 
+              Arca tersebut tingginya 1,23 m, di gambarkan dengan sikap berdiri, bertangan empat, tangan kanan belakang memegang aksamala, tangan kiri belakang memegang cemara. 
+              Kedua tangan depan ditekuk dimuka dada, telapak tangan kiri terbuka menghadap ke atas sedang telapak tangan kanan ada diatas telapak tangan kiri dalam sikap menggenggam dengan ibu jari diarahkan ke atas. 
+              Disampingnya terdapat bunga teratai yang keluar dari bonggol, menunjukkan personifikasi Dinasti Singhasari. 
+              Didalam relung-relungnya tidak ditemukan arca. Diduga Candi Kidal merupakan induk dari suatu komplek percandian yang bukan hanya terdiri dari satu halaman saja, melainkan dua halaman.
+            </p>
+            
+            <div class="line margin-top-30">
+              <div class="margin">
+                <div class="s-12 m-6 l-6">
+                  <div class='modelo-wrapper'> 
+                    <div style="width: 100%; padding-bottom: 56.25%; position: relative"> 
+                      <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> 
+                        <iframe src="https://app.modelo.io/embedded/zaGYDbITPj?viewport=true&autoplay=true&autoRotate=true" style="width:100%;height:100%;" frameborder="0" mozallowfullscreen webkitallowfullscreen allowfullscreen ></iframe> 
+                      </div> 
+                    </div> 
+                  </div>
+                 
+                </div>
+                <div class="s-12 m-6 l-6">
+                  <div class='modelo-wrapper'> 
+                    <div style="width: 100%; padding-bottom: 56.25%; position: relative"> 
+                      <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> 
+                        <iframe src="https://app.modelo.io/embedded/_S1rG7sFG6?viewport=true&autoplay=true&autoRotate=true" style="width:100%;height:100%;" frameborder="0" mozallowfullscreen webkitallowfullscreen allowfullscreen ></iframe> 
+                      </div> 
+                    </div> 
+                  </div>
+                  
+                  <br> <br> <br>
+
+                </div>
+                <div class="s-12 m-6 l-6">
+                  <div class='modelo-wrapper'> 
+                    <div style="width: 100%; padding-bottom: 56.25%; position: relative"> 
+                      <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> 
+                        <iframe src="https://app.modelo.io/embedded/-CkQpPDYqd?viewport=true&autoplay=true&autoRotate=true" style="width:100%;height:100%;" frameborder="0" mozallowfullscreen webkitallowfullscreen allowfullscreen ></iframe> 
+                      </div> 
+                    </div> 
+                  </div>
+                </div>
+              </div>
+            </div>      
+          </div>
+        </div> 
+      </article>
+    </main>
+    
+    <!-- FOOTER -->
+    <footer>
+      <!-- Contact Us -->
+      <div class="background-primary padding text-center">
+        <p class="h1">TERIMA KASIH</p>                                                                        
+      </div>
+      
+      <!-- Main Footer -->
+      <section class="background-dark full-width">
+        
+        <!-- Collumn 1 -->
+        <div class="s-12 m-12 l-6 margin-m-bottom-2x">
+          <div class="padding-2x">
+            <div class="line">              
+              <div class="float-left">
+                  <i class="icon-sli-location-pin text-primary icon3x"></i>
+                </div>
+                <div class="margin-left-70 margin-bottom-30">
+                  <h3 class="margin-bottom-0">Company Address</h3>
+                  <p>Araya Mansion No. 8 - 22<br>
+                     Tirtomoyo, Kec. Pakis, Malang, Jawa Timur 65154
+                  </p>               
+                </div>
+                <div class="float-left">
+                  <i class="icon-sli-envelope text-primary icon3x"></i>
+                </div>
+                <div class="margin-left-70 margin-bottom-30">
+                  <h3 class="margin-bottom-0">E-mail</h3>
+                  <p>contact@binus.ac.id<br>
+                     office@gmail.com
+                  </p>              
+                </div>
+                <div class="float-left">
+                  <i class="icon-sli-phone text-primary icon3x"></i>
+                </div>
+                <div class="margin-left-70">
+                  <h3 class="margin-bottom-0">Phone Numbers</h3>
+                  <p>0877 4092 8041<br>
+                     0877 8868 6938<br>
+                     0856 5532 0873
+                  </p>             
+                </div>
+            </div>
+          </div>
+        </div>  
+      </section>
+      <hr class="break margin-top-bottom-0" style="border-color: rgba(255, 174, 0, 0.8);">
+      
+      <!-- Bottom Footer -->
+      <section class="padding background-dark full-width">
+        <div class="s-12 l-6">
+          <p class="text-size-12">Copyright 2019, Vision Design</p>
+        </div>
+        <div class="s-12 l-6">
+          <a class="right text-size-12" href="http://www.myresponsee.com" title="Responsee - lightweight responsive framework">Design and coding<br> by Responsee Team</a>
+        </div>
+      </section>
+    </footer>
+    <script type="text/javascript" src="js/responsee.js"></script>
+    <script type="text/javascript" src="owl-carousel/owl.carousel.js"></script>
+    <script type="text/javascript" src="js/template-scripts.js"></script>
+  </body>
+</html>
